@@ -1,0 +1,192 @@
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\OpenTK.dll
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.dll
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\OpenTK.pdb
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+C:\Users\kyc89_000\Documents\Visual Studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\obj\Debug\DroneManager.UWB.Calibration.CalibrationForm.resources
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+C:\Users\kyc89_000\documents\visual studio 2012\Projects\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+D:\Programming\연구실\Drone\DroneManager(11m03d)(2)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+D:\Programming\연구실\Drone\DroneManager(11m03d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+D:\Programming\연구실\Drone\DroneManager(11m03d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\OpenTK.pdb
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.CalibrationForm.resources
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.SerialPortForm.resources
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.RemoveDeviceForm.resources
+D:\Programming\연구실\Drone\DroneManager(11m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.DeviceListForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\OpenTK.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\OpenTK.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.RemoveDeviceForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.CalibrationForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.DeviceListForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.SerialPortForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m22d)\DroneManager(11m22d)\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\OpenTK.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.RemoveDeviceForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.CalibrationForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.DeviceListForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.SerialPortForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(11m28d)\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\OpenTK.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.RemoveDeviceForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.CalibrationForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.DeviceListForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.SerialPortForm.resources
+C:\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m19d)\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.Drone.CommandModifyForm.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.RemoveDeviceForm.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.CalibrationForm.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.DeviceListForm.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.SerialPortForm.resources
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\OpenTK.dll
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+D:\Programming\Drone\Projects\DroneManager(12m20d)\DroneManager(12m20d)\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\OpenTK.dll
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.Drone.CommandModifyForm.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.RemoveDeviceForm.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.CalibrationForm.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.DeviceListForm.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.SerialPortForm.resources
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\Users\Administrator\Desktop\윤창\Drone\DroneManager(12m21d)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\DroneManager.exe
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\DroneManager.pdb
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.dll
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\OpenTK.dll
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.dll
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\protobuf-net.dll
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\InTheHand.Net.Personal.xml
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\OpenTK.xml
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\OpenTK.GLControl.xml
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\protobuf-net.pdb
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\bin\Debug\protobuf-net.xml
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.csprojResolveAssemblyReference.cache
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.Drone.CommandModifyForm.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.AddDeviceForm.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.RemoveDeviceForm.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.CalibrationForm.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.DeviceListForm.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.MainForm.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.Properties.Resources.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.SerialPortForm.resources
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.csproj.GenerateResource.Cache
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(12m22d)(2)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(2017)\DroneManager\DroneManager\bin\Debug\DroneManager.exe.config
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(2017)\DroneManager\DroneManager\obj\Debug\DroneManager.exe
+C:\LAB\Drone\Multimedia-Engineering-Drone\Project2(new)\PC(Server)\DroneManager(2017)\DroneManager\DroneManager\obj\Debug\DroneManager.pdb
